@@ -1,0 +1,1 @@
+rm -f config/categories.yaml && nano config/categories.yaml
