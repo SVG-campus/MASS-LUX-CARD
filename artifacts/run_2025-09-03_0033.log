@@ -1,0 +1,817 @@
+nohup: ignoring input
+[1/4] Generating prompts…
+[OK] Pregnancy Announcement → /home/donkey_right_productions/mass-lux-card/data/prompts/birth-baby-pregnancy-announcement.jsonl (60)
+[OK] Gender Reveal → /home/donkey_right_productions/mass-lux-card/data/prompts/birth-baby-gender-reveal.jsonl (60)
+[OK] Baby Shower → /home/donkey_right_productions/mass-lux-card/data/prompts/birth-baby-baby-shower.jsonl (60)
+[OK] Sip & See → /home/donkey_right_productions/mass-lux-card/data/prompts/birth-baby-sip-see.jsonl (60)
+[OK] Birth Announcement → /home/donkey_right_productions/mass-lux-card/data/prompts/birth-baby-birth-announcement.jsonl (60)
+[OK] Adoption Announcement → /home/donkey_right_productions/mass-lux-card/data/prompts/birth-baby-adoption-announcement.jsonl (60)
+[OK] Christening / Baptism → /home/donkey_right_productions/mass-lux-card/data/prompts/birth-baby-christening-baptism.jsonl (60)
+[OK] Baby Naming (Brit Milah / Simchat Bat) → /home/donkey_right_productions/mass-lux-card/data/prompts/birth-baby-baby-naming-brit-milah-simchat-bat.jsonl (60)
+[OK] Aqeeqah (Islamic baby welcome) → /home/donkey_right_productions/mass-lux-card/data/prompts/birth-baby-aqeeqah-islamic-baby-welcome.jsonl (60)
+[OK] First Birthday / Milestones 1–5 → /home/donkey_right_productions/mass-lux-card/data/prompts/birth-baby-first-birthday-milestones-1-5.jsonl (60)
+[OK] Birthday (Kids) → /home/donkey_right_productions/mass-lux-card/data/prompts/childhood-coming-of-age-birthday-kids.jsonl (60)
+[OK] Bar Mitzvah → /home/donkey_right_productions/mass-lux-card/data/prompts/childhood-coming-of-age-bar-mitzvah.jsonl (60)
+[OK] Bat Mitzvah → /home/donkey_right_productions/mass-lux-card/data/prompts/childhood-coming-of-age-bat-mitzvah.jsonl (60)
+[OK] B’nai/B’not Mitzvah → /home/donkey_right_productions/mass-lux-card/data/prompts/childhood-coming-of-age-bnai-bnot-mitzvah.jsonl (60)
+[OK] First Communion → /home/donkey_right_productions/mass-lux-card/data/prompts/childhood-coming-of-age-first-communion.jsonl (60)
+[OK] Confirmation → /home/donkey_right_productions/mass-lux-card/data/prompts/childhood-coming-of-age-confirmation.jsonl (60)
+[OK] Quinceañera (XV) → /home/donkey_right_productions/mass-lux-card/data/prompts/childhood-coming-of-age-quinceanera-xv.jsonl (60)
+[OK] Sweet Sixteen → /home/donkey_right_productions/mass-lux-card/data/prompts/childhood-coming-of-age-sweet-sixteen.jsonl (60)
+[OK] Seijin Shiki → /home/donkey_right_productions/mass-lux-card/data/prompts/childhood-coming-of-age-seijin-shiki.jsonl (60)
+[OK] Debut (Philippine 18th) → /home/donkey_right_productions/mass-lux-card/data/prompts/childhood-coming-of-age-debut-philippine-18th.jsonl (60)
+[OK] Upanayana / Sacred Thread → /home/donkey_right_productions/mass-lux-card/data/prompts/childhood-coming-of-age-upanayana-sacred-thread.jsonl (60)
+[OK] Save the Date → /home/donkey_right_productions/mass-lux-card/data/prompts/love-union-save-the-date.jsonl (60)
+[OK] Engagement Party → /home/donkey_right_productions/mass-lux-card/data/prompts/love-union-engagement-party.jsonl (60)
+[OK] Bridal Shower → /home/donkey_right_productions/mass-lux-card/data/prompts/love-union-bridal-shower.jsonl (60)
+[OK] Bachelor Party → /home/donkey_right_productions/mass-lux-card/data/prompts/love-union-bachelor-party.jsonl (60)
+[OK] Bachelorette Party → /home/donkey_right_productions/mass-lux-card/data/prompts/love-union-bachelorette-party.jsonl (60)
+[OK] Rehearsal Dinner → /home/donkey_right_productions/mass-lux-card/data/prompts/love-union-rehearsal-dinner.jsonl (60)
+[OK] Wedding Invitation Suite → /home/donkey_right_productions/mass-lux-card/data/prompts/love-union-wedding-invitation-suite.jsonl (60)
+[OK] Wedding Program → /home/donkey_right_productions/mass-lux-card/data/prompts/love-union-wedding-program.jsonl (60)
+[OK] Place Cards / Escort Cards → /home/donkey_right_productions/mass-lux-card/data/prompts/love-union-place-cards-escort-cards.jsonl (60)
+[OK] Menu Cards → /home/donkey_right_productions/mass-lux-card/data/prompts/love-union-menu-cards.jsonl (60)
+[OK] Table Numbers → /home/donkey_right_productions/mass-lux-card/data/prompts/love-union-table-numbers.jsonl (60)
+[OK] Favor / Belly Band Cards → /home/donkey_right_productions/mass-lux-card/data/prompts/love-union-favor-belly-band-cards.jsonl (60)
+[OK] Post-Wedding Brunch → /home/donkey_right_productions/mass-lux-card/data/prompts/love-union-post-wedding-brunch.jsonl (60)
+[OK] Elopement Announcement → /home/donkey_right_productions/mass-lux-card/data/prompts/love-union-elopement-announcement.jsonl (60)
+[OK] Vow Renewal → /home/donkey_right_productions/mass-lux-card/data/prompts/love-union-vow-renewal.jsonl (60)
+[OK] Anniversary (1, 5, 10, 25, 50+) → /home/donkey_right_productions/mass-lux-card/data/prompts/love-union-anniversary-1-5-10-25-50.jsonl (60)
+[OK] Kindergarten / Middle School Grad → /home/donkey_right_productions/mass-lux-card/data/prompts/graduation-academic-kindergarten-middle-school-grad.jsonl (60)
+[OK] High School Graduation → /home/donkey_right_productions/mass-lux-card/data/prompts/graduation-academic-high-school-graduation.jsonl (60)
+[OK] College Graduation → /home/donkey_right_productions/mass-lux-card/data/prompts/graduation-academic-college-graduation.jsonl (60)
+[OK] Masters Graduation → /home/donkey_right_productions/mass-lux-card/data/prompts/graduation-academic-masters-graduation.jsonl (60)
+[OK] PhD / Doctoral Hooding → /home/donkey_right_productions/mass-lux-card/data/prompts/graduation-academic-phd-doctoral-hooding.jsonl (60)
+[OK] White Coat / Match Day → /home/donkey_right_productions/mass-lux-card/data/prompts/graduation-academic-white-coat-match-day.jsonl (60)
+[OK] Bar Passage / Swearing-In → /home/donkey_right_productions/mass-lux-card/data/prompts/graduation-academic-bar-passage-swearing-in.jsonl (60)
+[OK] Academic Appointment / Tenure → /home/donkey_right_productions/mass-lux-card/data/prompts/graduation-academic-academic-appointment-tenure.jsonl (60)
+[OK] New Home / Housewarming → /home/donkey_right_productions/mass-lux-card/data/prompts/life-moments-congrats-new-home-housewarming.jsonl (60)
+[OK] New Job / Promotion → /home/donkey_right_productions/mass-lux-card/data/prompts/life-moments-congrats-new-job-promotion.jsonl (60)
+[OK] Retirement → /home/donkey_right_productions/mass-lux-card/data/prompts/life-moments-congrats-retirement.jsonl (60)
+[OK] Citizenship / Naturalization → /home/donkey_right_productions/mass-lux-card/data/prompts/life-moments-congrats-citizenship-naturalization.jsonl (60)
+[OK] Name Change Announcement → /home/donkey_right_productions/mass-lux-card/data/prompts/life-moments-congrats-name-change-announcement.jsonl (60)
+[OK] New Pet / Pet Adoption → /home/donkey_right_productions/mass-lux-card/data/prompts/life-moments-congrats-new-pet-pet-adoption.jsonl (60)
+[OK] Sports Victory / Championship → /home/donkey_right_productions/mass-lux-card/data/prompts/life-moments-congrats-sports-victory-championship.jsonl (60)
+[OK] Exams / Certifications → /home/donkey_right_productions/mass-lux-card/data/prompts/life-moments-congrats-exams-certifications.jsonl (60)
+[OK] Thank You (General) → /home/donkey_right_productions/mass-lux-card/data/prompts/thanks-well-wishes-thank-you-general.jsonl (60)
+[OK] Thank You (Wedding) → /home/donkey_right_productions/mass-lux-card/data/prompts/thanks-well-wishes-thank-you-wedding.jsonl (60)
+[OK] Thank You (Baby) → /home/donkey_right_productions/mass-lux-card/data/prompts/thanks-well-wishes-thank-you-baby.jsonl (60)
+[OK] Teacher Appreciation → /home/donkey_right_productions/mass-lux-card/data/prompts/thanks-well-wishes-teacher-appreciation.jsonl (60)
+[OK] Coach Appreciation → /home/donkey_right_productions/mass-lux-card/data/prompts/thanks-well-wishes-coach-appreciation.jsonl (60)
+[OK] Healthcare Appreciation → /home/donkey_right_productions/mass-lux-card/data/prompts/thanks-well-wishes-healthcare-appreciation.jsonl (60)
+[OK] Thinking of You → /home/donkey_right_productions/mass-lux-card/data/prompts/thanks-well-wishes-thinking-of-you.jsonl (60)
+[OK] Get Well Soon → /home/donkey_right_productions/mass-lux-card/data/prompts/thanks-well-wishes-get-well-soon.jsonl (60)
+[OK] Apology → /home/donkey_right_productions/mass-lux-card/data/prompts/thanks-well-wishes-apology.jsonl (60)
+[OK] Condolence → /home/donkey_right_productions/mass-lux-card/data/prompts/sympathy-memorial-condolence.jsonl (60)
+[OK] In Memoriam Announcement → /home/donkey_right_productions/mass-lux-card/data/prompts/sympathy-memorial-in-memoriam-announcement.jsonl (60)
+[OK] Funeral Invitation / Order of Service → /home/donkey_right_productions/mass-lux-card/data/prompts/sympathy-memorial-funeral-invitation-order-of-service.jsonl (60)
+[OK] Celebration of Life → /home/donkey_right_productions/mass-lux-card/data/prompts/sympathy-memorial-celebration-of-life.jsonl (60)
+[OK] Shiva / Condolence (Jewish) → /home/donkey_right_productions/mass-lux-card/data/prompts/sympathy-memorial-shiva-condolence-jewish.jsonl (60)
+[OK] Pet Sympathy → /home/donkey_right_productions/mass-lux-card/data/prompts/sympathy-memorial-pet-sympathy.jsonl (60)
+[OK] Remembrance / Yahrzeit / Día de Muertos → /home/donkey_right_productions/mass-lux-card/data/prompts/sympathy-memorial-remembrance-yahrzeit-dia-de-muertos.jsonl (60)
+[OK] Eid Mubarak → /home/donkey_right_productions/mass-lux-card/data/prompts/religious-faith-eid-mubarak.jsonl (60)
+[OK] Ramadan Kareem → /home/donkey_right_productions/mass-lux-card/data/prompts/religious-faith-ramadan-kareem.jsonl (60)
+[OK] Rosh Hashanah → /home/donkey_right_productions/mass-lux-card/data/prompts/religious-faith-rosh-hashanah.jsonl (60)
+[OK] Yom Kippur Cards → /home/donkey_right_productions/mass-lux-card/data/prompts/religious-faith-yom-kippur-cards.jsonl (60)
+[OK] Passover → /home/donkey_right_productions/mass-lux-card/data/prompts/religious-faith-passover.jsonl (60)
+[OK] Hanukkah → /home/donkey_right_productions/mass-lux-card/data/prompts/religious-faith-hanukkah.jsonl (60)
+[OK] Easter → /home/donkey_right_productions/mass-lux-card/data/prompts/religious-faith-easter.jsonl (60)
+[OK] Christmas (Sacred) → /home/donkey_right_productions/mass-lux-card/data/prompts/religious-faith-christmas-sacred.jsonl (60)
+[OK] Diwali → /home/donkey_right_productions/mass-lux-card/data/prompts/religious-faith-diwali.jsonl (60)
+[OK] Holi → /home/donkey_right_productions/mass-lux-card/data/prompts/religious-faith-holi.jsonl (60)
+[OK] Navratri / Durga Puja → /home/donkey_right_productions/mass-lux-card/data/prompts/religious-faith-navratri-durga-puja.jsonl (60)
+[OK] Vesak (Buddha Day) → /home/donkey_right_productions/mass-lux-card/data/prompts/religious-faith-vesak-buddha-day.jsonl (60)
+[OK] Nowruz → /home/donkey_right_productions/mass-lux-card/data/prompts/religious-faith-nowruz.jsonl (60)
+[OK] Mid-Autumn Festival → /home/donkey_right_productions/mass-lux-card/data/prompts/religious-faith-mid-autumn-festival.jsonl (60)
+[OK] Lunar New Year → /home/donkey_right_productions/mass-lux-card/data/prompts/religious-faith-lunar-new-year.jsonl (60)
+[OK] Orthodox Christmas / Easter → /home/donkey_right_productions/mass-lux-card/data/prompts/religious-faith-orthodox-christmas-easter.jsonl (60)
+[OK] New Year → /home/donkey_right_productions/mass-lux-card/data/prompts/holidays-seasonal-new-year.jsonl (60)
+[OK] Valentine’s Day → /home/donkey_right_productions/mass-lux-card/data/prompts/holidays-seasonal-valentines-day.jsonl (60)
+[OK] St. Patrick’s Day → /home/donkey_right_productions/mass-lux-card/data/prompts/holidays-seasonal-st-patricks-day.jsonl (60)
+[OK] Mother’s Day → /home/donkey_right_productions/mass-lux-card/data/prompts/holidays-seasonal-mothers-day.jsonl (60)
+[OK] Father’s Day → /home/donkey_right_productions/mass-lux-card/data/prompts/holidays-seasonal-fathers-day.jsonl (60)
+[OK] Pride → /home/donkey_right_productions/mass-lux-card/data/prompts/holidays-seasonal-pride.jsonl (60)
+[OK] Independence Day (US) / National Days → /home/donkey_right_productions/mass-lux-card/data/prompts/holidays-seasonal-independence-day-us-national-days.jsonl (60)
+[OK] Halloween → /home/donkey_right_productions/mass-lux-card/data/prompts/holidays-seasonal-halloween.jsonl (60)
+[OK] Thanksgiving → /home/donkey_right_productions/mass-lux-card/data/prompts/holidays-seasonal-thanksgiving.jsonl (60)
+[OK] Christmas (Secular) → /home/donkey_right_productions/mass-lux-card/data/prompts/holidays-seasonal-christmas-secular.jsonl (60)
+[OK] Season’s Greetings / Holiday (Corporate) → /home/donkey_right_productions/mass-lux-card/data/prompts/holidays-seasonal-seasons-greetings-holiday-corporate.jsonl (60)
+[OK] Winter / Spring / Summer / Autumn Notes → /home/donkey_right_productions/mass-lux-card/data/prompts/holidays-seasonal-winter-spring-summer-autumn-notes.jsonl (60)
+[OK] Cocktail Party → /home/donkey_right_productions/mass-lux-card/data/prompts/parties-social-cocktail-party.jsonl (60)
+[OK] Black-Tie Gala → /home/donkey_right_productions/mass-lux-card/data/prompts/parties-social-black-tie-gala.jsonl (60)
+[OK] Charity Fundraiser → /home/donkey_right_productions/mass-lux-card/data/prompts/parties-social-charity-fundraiser.jsonl (60)
+[OK] Garden Party → /home/donkey_right_productions/mass-lux-card/data/prompts/parties-social-garden-party.jsonl (60)
+[OK] Yacht / Beach Party → /home/donkey_right_productions/mass-lux-card/data/prompts/parties-social-yacht-beach-party.jsonl (60)
+[OK] Masquerade → /home/donkey_right_productions/mass-lux-card/data/prompts/parties-social-masquerade.jsonl (60)
+[OK] House Party / Warming → /home/donkey_right_productions/mass-lux-card/data/prompts/parties-social-house-party-warming.jsonl (60)
+[OK] Open House / Studio Opening → /home/donkey_right_productions/mass-lux-card/data/prompts/parties-social-open-house-studio-opening.jsonl (60)
+[OK] Corporate Holiday Cards → /home/donkey_right_productions/mass-lux-card/data/prompts/business-corporate-corporate-holiday-cards.jsonl (60)
+[OK] VIP Event Invitation → /home/donkey_right_productions/mass-lux-card/data/prompts/business-corporate-vip-event-invitation.jsonl (60)
+[OK] Product Launch / Opening Night → /home/donkey_right_productions/mass-lux-card/data/prompts/business-corporate-product-launch-opening-night.jsonl (60)
+[OK] Investor / Board Meeting → /home/donkey_right_productions/mass-lux-card/data/prompts/business-corporate-investor-board-meeting.jsonl (60)
+[OK] Conference / Workshop / Seminar → /home/donkey_right_productions/mass-lux-card/data/prompts/business-corporate-conference-workshop-seminar.jsonl (60)
+[OK] Client Thank You → /home/donkey_right_productions/mass-lux-card/data/prompts/business-corporate-client-thank-you.jsonl (60)
+[OK] Employee Recognition → /home/donkey_right_productions/mass-lux-card/data/prompts/business-corporate-employee-recognition.jsonl (60)
+[OK] Grand Opening / Ribbon Cutting → /home/donkey_right_productions/mass-lux-card/data/prompts/business-corporate-grand-opening-ribbon-cutting.jsonl (60)
+[OK] Personalized Note Cards → /home/donkey_right_productions/mass-lux-card/data/prompts/stationery-social-notes-personalized-note-cards.jsonl (60)
+[OK] Monogram Correspondence Cards → /home/donkey_right_productions/mass-lux-card/data/prompts/stationery-social-notes-monogram-correspondence-cards.jsonl (60)
+[OK] Calling Cards → /home/donkey_right_productions/mass-lux-card/data/prompts/stationery-social-notes-calling-cards.jsonl (60)
+[OK] RSVP Cards → /home/donkey_right_productions/mass-lux-card/data/prompts/stationery-social-notes-rsvp-cards.jsonl (60)
+[OK] Envelope Liners / Seals → /home/donkey_right_productions/mass-lux-card/data/prompts/stationery-social-notes-envelope-liners-seals.jsonl (60)
+[OK] Place Cards → /home/donkey_right_productions/mass-lux-card/data/prompts/stationery-social-notes-place-cards.jsonl (60)
+[OK] Menu Cards → /home/donkey_right_productions/mass-lux-card/data/prompts/stationery-social-notes-menu-cards.jsonl (60)
+[OK] Program Cards → /home/donkey_right_productions/mass-lux-card/data/prompts/stationery-social-notes-program-cards.jsonl (60)
+[OK] Día de los Reyes / Epiphany → /home/donkey_right_productions/mass-lux-card/data/prompts/cultural-observances-dia-de-los-reyes-epiphany.jsonl (60)
+[OK] Cinco de Mayo → /home/donkey_right_productions/mass-lux-card/data/prompts/cultural-observances-cinco-de-mayo.jsonl (60)
+[OK] Día de la Independencia (MX) → /home/donkey_right_productions/mass-lux-card/data/prompts/cultural-observances-dia-de-la-independencia-mx.jsonl (60)
+[OK] Chuseok → /home/donkey_right_productions/mass-lux-card/data/prompts/cultural-observances-chuseok.jsonl (60)
+[OK] Songkran → /home/donkey_right_productions/mass-lux-card/data/prompts/cultural-observances-songkran.jsonl (60)
+[OK] Tet → /home/donkey_right_productions/mass-lux-card/data/prompts/cultural-observances-tet.jsonl (60)
+[OK] Carnival / Mardi Gras → /home/donkey_right_productions/mass-lux-card/data/prompts/cultural-observances-carnival-mardi-gras.jsonl (60)
+[OK] Guy Fawkes Night → /home/donkey_right_productions/mass-lux-card/data/prompts/cultural-observances-guy-fawkes-night.jsonl (60)
+[OK] Sinterklaas → /home/donkey_right_productions/mass-lux-card/data/prompts/cultural-observances-sinterklaas.jsonl (60)
+[OK] Saint’s Days (Name-Days) → /home/donkey_right_productions/mass-lux-card/data/prompts/cultural-observances-saints-days-name-days.jsonl (60)
+[OK] Fully Bespoke → /home/donkey_right_productions/mass-lux-card/data/prompts/custom-cards-fully-bespoke.jsonl (60)
+Finished 7920 prompts.
+[2/4] Rendering via Imagen 4 Ultra…
+birth-baby-adoption-announcement.jsonl:   0%|          | 0/60 [00:00<?, ?it/s]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0001-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0001-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:   2%|▏         | 1/60 [00:10<10:33, 10.74s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0002-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0002-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:   3%|▎         | 2/60 [00:22<11:14, 11.63s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0003-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0003-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:   5%|▌         | 3/60 [00:34<11:00, 11.59s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0004-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0004-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:   7%|▋         | 4/60 [00:45<10:35, 11.36s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0005-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0005-1.png
+  
+
+birth-baby-adoption-announcement.jsonl:   8%|▊         | 5/60 [00:57<10:31, 11.48s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0006-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0006-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  10%|█         | 6/60 [01:08<10:23, 11.55s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0007-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0007-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  12%|█▏        | 7/60 [01:20<10:14, 11.60s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0008-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0008-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  13%|█▎        | 8/60 [01:32<10:09, 11.73s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0009-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0009-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  15%|█▌        | 9/60 [01:46<10:24, 12.25s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0010-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0010-1.png
+  
+
+birth-baby-adoption-announcement.jsonl:  17%|█▋        | 10/60 [01:56<09:50, 11.80s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0011-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0011-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  18%|█▊        | 11/60 [02:09<09:54, 12.13s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0012-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0012-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  20%|██        | 12/60 [02:21<09:36, 12.00s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0013-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0013-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  22%|██▏       | 13/60 [02:33<09:28, 12.10s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0014-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0014-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  23%|██▎       | 14/60 [02:46<09:19, 12.16s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0015-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0015-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  25%|██▌       | 15/60 [02:58<09:16, 12.36s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0016-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0016-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  27%|██▋       | 16/60 [03:11<09:01, 12.30s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0017-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0017-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  28%|██▊       | 17/60 [03:22<08:39, 12.07s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0018-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0018-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  30%|███       | 18/60 [03:37<09:07, 13.03s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0019-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0019-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  32%|███▏      | 19/60 [03:50<08:44, 12.79s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0020-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0020-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  33%|███▎      | 20/60 [04:01<08:17, 12.45s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0021-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0021-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  35%|███▌      | 21/60 [04:15<08:20, 12.84s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0022-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0022-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  37%|███▋      | 22/60 [04:28<08:05, 12.77s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0023-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0023-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  38%|███▊      | 23/60 [04:40<07:51, 12.74s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0024-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0024-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  40%|████      | 24/60 [04:54<07:44, 12.92s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0025-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0025-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  42%|████▏     | 25/60 [05:07<07:38, 13.09s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0026-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0026-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  43%|████▎     | 26/60 [05:20<07:20, 12.94s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0027-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0027-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  45%|████▌     | 27/60 [05:33<07:09, 13.01s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0028-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0028-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  47%|████▋     | 28/60 [05:46<07:00, 13.13s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0029-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0029-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  48%|████▊     | 29/60 [05:58<06:35, 12.76s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0030-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0030-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  50%|█████     | 30/60 [06:10<06:16, 12.53s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0031-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0031-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  52%|█████▏    | 31/60 [06:22<05:54, 12.22s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0032-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0032-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  53%|█████▎    | 32/60 [06:33<05:36, 12.01s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0033-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0033-1.png
+  
+
+birth-baby-adoption-announcement.jsonl:  55%|█████▌    | 33/60 [06:44<05:17, 11.76s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0034-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0034-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  57%|█████▋    | 34/60 [06:58<05:17, 12.22s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0035-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0035-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  58%|█████▊    | 35/60 [07:10<05:09, 12.36s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0036-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0036-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  60%|██████    | 36/60 [07:22<04:53, 12.23s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0037-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0037-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  62%|██████▏   | 37/60 [07:35<04:42, 12.28s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0038-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0038-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  63%|██████▎   | 38/60 [07:47<04:30, 12.29s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0039-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0039-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  65%|██████▌   | 39/60 [07:59<04:17, 12.28s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0040-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0040-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  67%|██████▋   | 40/60 [08:12<04:06, 12.32s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0041-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0041-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  68%|██████▊   | 41/60 [08:25<04:00, 12.65s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0042-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0042-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  70%|███████   | 42/60 [08:38<03:49, 12.75s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0043-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0043-1.png
+  
+
+birth-baby-adoption-announcement.jsonl:  72%|███████▏  | 43/60 [08:51<03:36, 12.73s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0044-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0044-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  73%|███████▎  | 44/60 [09:05<03:31, 13.24s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0045-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0045-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  75%|███████▌  | 45/60 [09:17<03:13, 12.89s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0046-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0046-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  77%|███████▋  | 46/60 [09:32<03:09, 13.53s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0047-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0047-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  78%|███████▊  | 47/60 [09:45<02:51, 13.16s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0048-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0048-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  80%|████████  | 48/60 [09:59<02:42, 13.50s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0049-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0049-1.png
+  
+
+birth-baby-adoption-announcement.jsonl:  82%|████████▏ | 49/60 [10:10<02:21, 12.90s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0050-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0050-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  83%|████████▎ | 50/60 [10:22<02:03, 12.39s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0051-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0051-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  85%|████████▌ | 51/60 [10:33<01:48, 12.00s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0052-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0052-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  87%|████████▋ | 52/60 [10:47<01:40, 12.58s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0053-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0053-1.png
+  
+
+birth-baby-adoption-announcement.jsonl:  88%|████████▊ | 53/60 [11:00<01:29, 12.79s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0054-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0054-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  90%|█████████ | 54/60 [11:11<01:14, 12.37s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0055-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0055-1.png
+  
+
+birth-baby-adoption-announcement.jsonl:  92%|█████████▏| 55/60 [11:22<00:59, 11.85s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0056-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0056-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  93%|█████████▎| 56/60 [11:33<00:46, 11.71s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0057-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0057-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  95%|█████████▌| 57/60 [11:46<00:36, 12.00s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0058-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0058-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl:  97%|█████████▋| 58/60 [11:59<00:24, 12.18s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0059-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0059-1.png
+  
+
+birth-baby-adoption-announcement.jsonl:  98%|█████████▊| 59/60 [12:11<00:12, 12.28s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Adoption Announcement/Adoption Announcement-0060-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Adoption Announcement/Adoption Announcement-0060-1.png
+  
+.
+birth-baby-adoption-announcement.jsonl: 100%|██████████| 60/60 [12:24<00:00, 12.34s/it]birth-baby-adoption-announcement.jsonl: 100%|██████████| 60/60 [12:24<00:00, 12.40s/it]
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:   0%|          | 0/60 [00:00<?, ?it/s]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0001-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0001-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:   2%|▏         | 1/60 [00:11<11:18, 11.49s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0002-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0002-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:   3%|▎         | 2/60 [00:24<11:51, 12.26s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0003-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0003-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:   5%|▌         | 3/60 [00:35<11:11, 11.78s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0004-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0004-1.png
+  
+
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:   7%|▋         | 4/60 [00:46<10:49, 11.59s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0005-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0005-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:   8%|▊         | 5/60 [00:58<10:48, 11.79s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0006-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0006-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  10%|█         | 6/60 [01:11<10:41, 11.88s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0007-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0007-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  12%|█▏        | 7/60 [01:24<11:05, 12.56s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0008-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0008-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  13%|█▎        | 8/60 [01:36<10:41, 12.34s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0009-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0009-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  15%|█▌        | 9/60 [01:49<10:35, 12.45s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0010-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0010-1.png
+  
+
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  17%|█▋        | 10/60 [02:01<10:10, 12.21s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0011-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0011-1.png
+  
+
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  18%|█▊        | 11/60 [02:12<09:47, 12.00s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0012-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0012-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  20%|██        | 12/60 [02:25<09:40, 12.09s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0013-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0013-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  22%|██▏       | 13/60 [02:36<09:25, 12.03s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0014-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0014-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  23%|██▎       | 14/60 [02:48<09:13, 12.03s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0015-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0015-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  25%|██▌       | 15/60 [03:01<09:10, 12.22s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0016-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0016-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  27%|██▋       | 16/60 [03:13<08:57, 12.22s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0017-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0017-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  28%|██▊       | 17/60 [03:25<08:36, 12.00s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0018-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0018-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  30%|███       | 18/60 [03:36<08:13, 11.76s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0019-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0019-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  32%|███▏      | 19/60 [03:49<08:13, 12.04s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0020-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0020-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  33%|███▎      | 20/60 [04:00<07:51, 11.79s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0021-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0021-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  35%|███▌      | 21/60 [04:11<07:30, 11.55s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0022-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0022-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  37%|███▋      | 22/60 [04:21<07:05, 11.20s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0023-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0023-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  38%|███▊      | 23/60 [04:33<07:01, 11.39s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0024-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0024-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  40%|████      | 24/60 [04:45<06:59, 11.66s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0025-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0025-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  42%|████▏     | 25/60 [04:58<06:54, 11.85s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0026-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0026-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  43%|████▎     | 26/60 [05:11<06:55, 12.22s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0027-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0027-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  45%|████▌     | 27/60 [05:22<06:38, 12.07s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0028-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0028-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  47%|████▋     | 28/60 [05:36<06:42, 12.59s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0029-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0029-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  48%|████▊     | 29/60 [05:50<06:41, 12.95s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0030-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0030-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  50%|█████     | 30/60 [06:01<06:10, 12.34s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0031-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0031-1.png
+  
+
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  52%|█████▏    | 31/60 [06:12<05:46, 11.96s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0032-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0032-1.png
+  
+
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  53%|█████▎    | 32/60 [06:23<05:25, 11.61s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0033-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0033-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  55%|█████▌    | 33/60 [06:37<05:32, 12.30s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0034-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0034-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  57%|█████▋    | 34/60 [06:48<05:12, 12.03s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0035-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0035-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  58%|█████▊    | 35/60 [07:02<05:11, 12.44s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0036-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0036-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  60%|██████    | 36/60 [07:16<05:10, 12.94s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0037-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0037-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  62%|██████▏   | 37/60 [07:28<04:53, 12.78s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0038-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0038-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  63%|██████▎   | 38/60 [07:40<04:33, 12.42s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0039-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0039-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  65%|██████▌   | 39/60 [07:52<04:20, 12.41s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0040-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0040-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  67%|██████▋   | 40/60 [08:05<04:08, 12.44s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0041-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0041-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  68%|██████▊   | 41/60 [08:16<03:52, 12.22s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0042-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0042-1.png
+  
+
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  70%|███████   | 42/60 [08:29<03:40, 12.24s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0043-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0043-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  72%|███████▏  | 43/60 [08:42<03:36, 12.71s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0044-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0044-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  73%|███████▎  | 44/60 [08:54<03:18, 12.38s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0045-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0045-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  75%|███████▌  | 45/60 [09:05<03:01, 12.08s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0046-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0046-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  77%|███████▋  | 46/60 [09:17<02:45, 11.79s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0047-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0047-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  78%|███████▊  | 47/60 [09:28<02:30, 11.58s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0048-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0048-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  80%|████████  | 48/60 [09:41<02:24, 12.04s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0049-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0049-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  82%|████████▏ | 49/60 [09:53<02:13, 12.12s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0050-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0050-1.png
+  
+
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  83%|████████▎ | 50/60 [10:04<01:57, 11.75s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0051-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0051-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  85%|████████▌ | 51/60 [10:16<01:46, 11.83s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0052-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0052-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  87%|████████▋ | 52/60 [10:27<01:33, 11.67s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0053-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0053-1.png
+  
+
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  88%|████████▊ | 53/60 [10:38<01:20, 11.50s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0054-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0054-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  90%|█████████ | 54/60 [10:50<01:09, 11.62s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0055-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0055-1.png
+  
+
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  92%|█████████▏| 55/60 [11:02<00:57, 11.58s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0056-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0056-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  93%|█████████▎| 56/60 [11:13<00:45, 11.47s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0057-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0057-1.png
+  
+
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  95%|█████████▌| 57/60 [11:26<00:35, 11.84s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0058-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0058-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  97%|█████████▋| 58/60 [11:37<00:23, 11.83s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0059-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0059-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl:  98%|█████████▊| 59/60 [11:49<00:11, 11.91s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0060-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Aqeeqah (Islamic baby welcome)/Aqeeqah (Islamic baby welcome)-0060-1.png
+  
+.
+birth-baby-aqeeqah-islamic-baby-welcome.jsonl: 100%|██████████| 60/60 [12:02<00:00, 12.14s/it]birth-baby-aqeeqah-islamic-baby-welcome.jsonl: 100%|██████████| 60/60 [12:02<00:00, 12.04s/it]
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:   0%|          | 0/60 [00:00<?, ?it/s]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0001-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0001-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:   2%|▏         | 1/60 [00:13<13:35, 13.83s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0002-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0002-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:   3%|▎         | 2/60 [00:26<12:25, 12.86s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0003-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0003-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:   5%|▌         | 3/60 [00:37<11:50, 12.46s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0004-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0004-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:   7%|▋         | 4/60 [00:49<11:16, 12.09s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0005-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0005-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:   8%|▊         | 5/60 [01:01<11:00, 12.02s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0006-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0006-1.png
+  
+
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  10%|█         | 6/60 [01:14<10:59, 12.21s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0007-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0007-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  12%|█▏        | 7/60 [01:26<10:43, 12.15s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0008-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0008-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  13%|█▎        | 8/60 [01:36<10:11, 11.75s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0009-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0009-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  15%|█▌        | 9/60 [01:50<10:34, 12.45s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0010-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0010-1.png
+  
+
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  17%|█▋        | 10/60 [02:04<10:37, 12.76s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0011-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0011-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  18%|█▊        | 11/60 [02:16<10:19, 12.63s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0012-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0012-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  20%|██        | 12/60 [02:29<10:01, 12.54s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0013-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0013-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  22%|██▏       | 13/60 [02:42<09:59, 12.77s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0014-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0014-1.png
+  
+
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  23%|██▎       | 14/60 [02:54<09:37, 12.56s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0015-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0015-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  25%|██▌       | 15/60 [03:09<10:01, 13.36s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0016-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0016-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  27%|██▋       | 16/60 [03:21<09:24, 12.83s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0017-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0017-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  28%|██▊       | 17/60 [03:35<09:34, 13.36s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0018-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0018-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  30%|███       | 18/60 [03:49<09:24, 13.43s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0019-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0019-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  32%|███▏      | 19/60 [04:02<09:02, 13.24s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0020-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0020-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  33%|███▎      | 20/60 [04:14<08:41, 13.05s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0021-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0021-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  35%|███▌      | 21/60 [04:27<08:29, 13.07s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0022-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0022-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  37%|███▋      | 22/60 [04:40<08:05, 12.78s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0023-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0023-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  38%|███▊      | 23/60 [04:51<07:39, 12.42s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0024-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0024-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  40%|████      | 24/60 [05:04<07:29, 12.48s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0025-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0025-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  42%|████▏     | 25/60 [05:16<07:18, 12.54s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0026-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0026-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  43%|████▎     | 26/60 [05:28<06:59, 12.35s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0027-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0027-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  45%|████▌     | 27/60 [05:41<06:46, 12.30s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0028-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0028-1.png
+  
+
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  47%|████▋     | 28/60 [05:53<06:31, 12.24s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0029-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0029-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  48%|████▊     | 29/60 [06:04<06:09, 11.93s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0030-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0030-1.png
+  
+
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  50%|█████     | 30/60 [06:18<06:20, 12.67s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0031-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0031-1.png
+  
+
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  52%|█████▏    | 31/60 [06:32<06:14, 12.92s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0032-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0032-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  53%|█████▎    | 32/60 [06:44<05:55, 12.70s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0033-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0033-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  55%|█████▌    | 33/60 [06:56<05:42, 12.67s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0034-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0034-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  57%|█████▋    | 34/60 [07:08<05:22, 12.41s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0035-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0035-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  58%|█████▊    | 35/60 [07:21<05:09, 12.38s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0036-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0036-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  60%|██████    | 36/60 [07:33<04:56, 12.35s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0037-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0037-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  62%|██████▏   | 37/60 [07:45<04:45, 12.40s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0038-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0038-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  63%|██████▎   | 38/60 [07:57<04:28, 12.22s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0039-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0039-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  65%|██████▌   | 39/60 [08:10<04:20, 12.42s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0040-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0040-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  67%|██████▋   | 40/60 [08:22<04:02, 12.15s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0041-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0041-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  68%|██████▊   | 41/60 [08:33<03:48, 12.04s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0042-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0042-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  70%|███████   | 42/60 [08:45<03:33, 11.88s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0043-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0043-1.png
+  
+
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  72%|███████▏  | 43/60 [08:57<03:23, 11.95s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0044-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0044-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  73%|███████▎  | 44/60 [09:09<03:11, 11.99s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0045-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0045-1.png
+  
+
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  75%|███████▌  | 45/60 [09:22<03:04, 12.33s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0046-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0046-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  77%|███████▋  | 46/60 [09:36<02:57, 12.65s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0047-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0047-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  78%|███████▊  | 47/60 [09:48<02:42, 12.51s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0048-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0048-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  80%|████████  | 48/60 [09:59<02:26, 12.24s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0049-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0049-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  82%|████████▏ | 49/60 [10:11<02:11, 11.96s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0050-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0050-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  83%|████████▎ | 50/60 [10:22<01:57, 11.70s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0051-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0051-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  85%|████████▌ | 51/60 [10:33<01:44, 11.61s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0052-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0052-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  87%|████████▋ | 52/60 [10:45<01:33, 11.67s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0053-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0053-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  88%|████████▊ | 53/60 [10:57<01:21, 11.68s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0054-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0054-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  90%|█████████ | 54/60 [11:10<01:13, 12.22s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0055-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0055-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  92%|█████████▏| 55/60 [11:23<01:02, 12.46s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0056-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0056-1.png
+  
+
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  93%|█████████▎| 56/60 [11:35<00:48, 12.23s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0057-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0057-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  95%|█████████▌| 57/60 [11:46<00:35, 11.98s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0058-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0058-1.png
+  
+
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  97%|█████████▋| 58/60 [12:00<00:24, 12.40s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0059-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0059-1.png
+  
+.
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl:  98%|█████████▊| 59/60 [12:11<00:12, 12.09s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0060-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Naming (Brit Milah - Simchat Bat)/Baby Naming (Brit Milah - Simchat Bat)-0060-1.png
+  
+
+birth-baby-baby-naming-brit-milah-simchat-bat.jsonl: 100%|██████████| 60/60 [12:23<00:00, 12.14s/it]birth-baby-baby-naming-brit-milah-simchat-bat.jsonl: 100%|██████████| 60/60 [12:23<00:00, 12.40s/it]
+birth-baby-baby-shower.jsonl:   0%|          | 0/60 [00:00<?, ?it/s]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Shower/Baby Shower-0001-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Shower/Baby Shower-0001-1.png
+  
+
+birth-baby-baby-shower.jsonl:   2%|▏         | 1/60 [00:11<11:00, 11.20s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Shower/Baby Shower-0002-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Shower/Baby Shower-0002-1.png
+  
+.
+birth-baby-baby-shower.jsonl:   3%|▎         | 2/60 [00:23<11:37, 12.02s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Shower/Baby Shower-0003-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Shower/Baby Shower-0003-1.png
+  
+.
+birth-baby-baby-shower.jsonl:   5%|▌         | 3/60 [00:36<11:50, 12.47s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Shower/Baby Shower-0004-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Shower/Baby Shower-0004-1.png
+  
+
+birth-baby-baby-shower.jsonl:   7%|▋         | 4/60 [00:48<11:17, 12.09s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Shower/Baby Shower-0005-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Shower/Baby Shower-0005-1.png
+  
+.
+birth-baby-baby-shower.jsonl:   8%|▊         | 5/60 [01:01<11:24, 12.44s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Shower/Baby Shower-0006-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Shower/Baby Shower-0006-1.png
+  
+.
+birth-baby-baby-shower.jsonl:  10%|█         | 6/60 [01:13<11:04, 12.30s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Shower/Baby Shower-0007-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Shower/Baby Shower-0007-1.png
+  
+
+birth-baby-baby-shower.jsonl:  12%|█▏        | 7/60 [01:24<10:27, 11.84s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Shower/Baby Shower-0008-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Shower/Baby Shower-0008-1.png
+  
+
+birth-baby-baby-shower.jsonl:  13%|█▎        | 8/60 [01:35<10:06, 11.67s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Shower/Baby Shower-0009-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Shower/Baby Shower-0009-1.png
+  
+.
+birth-baby-baby-shower.jsonl:  15%|█▌        | 9/60 [01:46<09:50, 11.59s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Shower/Baby Shower-0010-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Shower/Baby Shower-0010-1.png
+  
+.
+birth-baby-baby-shower.jsonl:  17%|█▋        | 10/60 [01:57<09:27, 11.35s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Shower/Baby Shower-0011-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Shower/Baby Shower-0011-1.png
+  
+.
+birth-baby-baby-shower.jsonl:  18%|█▊        | 11/60 [02:10<09:37, 11.79s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Shower/Baby Shower-0012-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Shower/Baby Shower-0012-1.png
+  
+
+birth-baby-baby-shower.jsonl:  20%|██        | 12/60 [02:21<09:11, 11.49s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Shower/Baby Shower-0013-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Shower/Baby Shower-0013-1.png
+  
+.
+birth-baby-baby-shower.jsonl:  22%|██▏       | 13/60 [02:33<09:12, 11.76s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Shower/Baby Shower-0014-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Shower/Baby Shower-0014-1.png
+  
+
+birth-baby-baby-shower.jsonl:  23%|██▎       | 14/60 [02:44<08:49, 11.50s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Shower/Baby Shower-0015-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Shower/Baby Shower-0015-1.png
+  
+.
+birth-baby-baby-shower.jsonl:  25%|██▌       | 15/60 [02:57<08:51, 11.80s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Shower/Baby Shower-0016-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Shower/Baby Shower-0016-1.png
+  
+.
+birth-baby-baby-shower.jsonl:  27%|██▋       | 16/60 [03:09<08:47, 11.99s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Shower/Baby Shower-0017-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Shower/Baby Shower-0017-1.png
+  
+.
+birth-baby-baby-shower.jsonl:  28%|██▊       | 17/60 [03:21<08:31, 11.89s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Shower/Baby Shower-0018-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Shower/Baby Shower-0018-1.png
+  
+.
+birth-baby-baby-shower.jsonl:  30%|███       | 18/60 [03:34<08:33, 12.23s/it]Copying file:///home/donkey_right_productions/mass-lux-card/data/renders/Birth & Baby/Baby Shower/Baby Shower-0019-1.png to gs://masslux-renders-learning-470300/Birth & Baby/Baby Shower/Baby Shower-0019-1.png
+  
+.
+birth-baby-baby-shower.jsonl:  32%|███▏      | 19/60 [03:45<08:14, 12.07s/it]birth-baby-baby-shower.jsonl:  32%|███▏      | 19/60 [08:47<18:57, 27.75s/it]
+Traceback (most recent call last):
+  File "/home/donkey_right_productions/mass-lux-card/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/home/donkey_right_productions/mass-lux-card/.venv/lib/python3.13/site-packages/urllib3/connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+  File "/usr/lib/python3.13/http/client.py", line 1430, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/http/client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "/usr/lib/python3.13/ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/donkey_right_productions/mass-lux-card/.venv/lib/python3.13/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/home/donkey_right_productions/mass-lux-card/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/home/donkey_right_productions/mass-lux-card/.venv/lib/python3.13/site-packages/urllib3/util/retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/donkey_right_productions/mass-lux-card/.venv/lib/python3.13/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/home/donkey_right_productions/mass-lux-card/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/home/donkey_right_productions/mass-lux-card/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/donkey_right_productions/mass-lux-card/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='us-central1-aiplatform.googleapis.com', port=443): Read timed out. (read timeout=300)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/donkey_right_productions/mass-lux-card/scripts/generate_images_vertex.py", line 66, in <module>
+    main()
+    ~~~~^^
+  File "/home/donkey_right_productions/mass-lux-card/scripts/generate_images_vertex.py", line 57, in main
+    outs = render_one(rec["prompt"], family, subcat, i)
+  File "/home/donkey_right_productions/mass-lux-card/scripts/generate_images_vertex.py", line 28, in render_one
+    r = requests.post(ENDPOINT, headers=headers, json=body, timeout=300)
+  File "/home/donkey_right_productions/mass-lux-card/.venv/lib/python3.13/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "/home/donkey_right_productions/mass-lux-card/.venv/lib/python3.13/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/donkey_right_productions/mass-lux-card/.venv/lib/python3.13/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/donkey_right_productions/mass-lux-card/.venv/lib/python3.13/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/donkey_right_productions/mass-lux-card/.venv/lib/python3.13/site-packages/requests/adapters.py", line 713, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us-central1-aiplatform.googleapis.com', port=443): Read timed out. (read timeout=300)
