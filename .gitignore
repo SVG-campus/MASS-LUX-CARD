@@ -1,3 +1,11 @@
+# Edit .gitignore to keep artifacts tracked; add these lines near the top:
+# --- in .gitignore ---
+# keep artifacts
+!artifacts/
+!artifacts/*.log
+!artifacts/*.txt
+!artifacts/*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
